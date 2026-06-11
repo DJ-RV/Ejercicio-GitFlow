@@ -1,0 +1,8 @@
+{
+  "name": "gitflow-descuentos",
+  "version": "1.0.0",
+  "description": "Sistema pequeño para practicar Git-flow",
+  "scripts": {
+    "test": "node test/descuentos.test.js"
+  }
+}
