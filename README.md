@@ -193,7 +193,8 @@ Por ejemplo, agrega una breve descripción del sistema en la siguiente sección:
 
 Escribe aquí una descripción breve del sistema:
 
-> Respuesta del estudiante: ...
+sistema posee un descuento plano y uno porcentual de estudiantes.
+tambien posee una serie de tests.
 
 Luego realice un commit:
 
